@@ -11,6 +11,12 @@
 
 ---
 
+# 👨‍🏫 Giảng viên hướng dẫn
+
+- **Thầy Nguyễn Xuân Quế**
+
+---
+
 # 📌 Chủ đề nghiên cứu / dự án
 
 ## 1. Phát triển phần mềm quản lý chương trình đào tạo và theo dõi tiến độ hoàn thành chương trình đào tạo của sinh viên
